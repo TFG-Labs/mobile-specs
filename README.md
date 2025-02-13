@@ -1,7 +1,7 @@
 # mobile-specs
 
 ## About
-This contains the cocoapods that are owned by the TFG-Labs org, currently only containing the Exponea SDK (Needed for Bloomreach).
+This contains the cocoapods that are owned by the bash org, currently only containing the Exponea SDK (Needed for Bloomreach).
 
 ## How To
 
